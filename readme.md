@@ -28,11 +28,11 @@ Use the JSON Body below.
 Standard JSON Body:
 {
     "Title": "Chamunda",
-    "Content": "Pundamanman is a gun man",
+    "Content": "Pundaman is a gun man",
     "PublicationDate": "2009-11-10 23:00:00 +0000 UTC m=+0.000000001",
     "Tags": [
-        "Chamundamananam",
-        "Pundamanman",
+        "Chamunda",
+        "Superhero",
         "worstliked"
     ]
 }
